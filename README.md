@@ -74,9 +74,9 @@ Ex)얼음행성: 방해요소-추위, 장비-갑옷, 패딩
 ## 9. 작품 시연유튜브 링크
  [유튜브 링크](https://youtu.be/Kly7gh-5nWU?si=2j7aU4LImVLT0aMs)
 
-![MinerCommando-_-제15회-성공회대학교-IT-경진대회_1](https://github.com/user-attachments/assets/45fff987-3b3a-4ed5-a0b4-d40de23d829f)
-![MinerCommando-_-제15회-성공회대학교-IT-경진대회_2](https://github.com/user-attachments/assets/1c9f2b85-9b41-44ea-b0f2-9e01f370f16a)
-![MinerCommando-_-제15회-성공회대학교-IT-경진대회_3](https://github.com/user-attachments/assets/c772c934-097a-4f71-8e94-4c3756dffd04)
-![MinerCommando-_-제15회-성공회대학교-IT-경진대회_4](https://github.com/user-attachments/assets/770d165d-d395-4974-b02c-aa473e88324f)
-![MinerCommando-_-제15회-성공회대학교-IT-경진대회_5](https://github.com/user-attachments/assets/16d3a16d-fe83-4c55-bb7d-c9cc137dc898)
-![MinerCommando-_-제15회-성공회대학교-IT-경진대회_6](https://github.com/user-attachments/assets/c7fa95b0-ed36-4844-b9e6-d439156db23d)
+<img src="https://github.com/user-attachments/assets/45fff987-3b3a-4ed5-a0b4-d40de23d829f" width="278" height="393"/>
+<img src="https://github.com/user-attachments/assets/1c9f2b85-9b41-44ea-b0f2-9e01f370f16a" width="278" height="393"/>
+<img src="https://github.com/user-attachments/assets/c772c934-097a-4f71-8e94-4c3756dffd04" width="278" height="393"/>
+<img src="https://github.com/user-attachments/assets/770d165d-d395-4974-b02c-aa473e88324f" width="278" height="393"/>
+<img src="https://github.com/user-attachments/assets/16d3a16d-fe83-4c55-bb7d-c9cc137dc898" width="278" height="393"/>
+<img src="https://github.com/user-attachments/assets/c7fa95b0-ed36-4844-b9e6-d439156db23d" width="278" height="393"/>
