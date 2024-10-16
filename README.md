@@ -74,6 +74,7 @@ Ex)얼음행성: 방해요소-추위, 장비-갑옷, 패딩
 ## 9. 작품 시연유튜브 링크
  [유튜브 링크](https://youtu.be/Kly7gh-5nWU?si=2j7aU4LImVLT0aMs)
 
+## 10. 포스터
 <img src="https://github.com/user-attachments/assets/45fff987-3b3a-4ed5-a0b4-d40de23d829f" width="278" height="393"/>
 <img src="https://github.com/user-attachments/assets/1c9f2b85-9b41-44ea-b0f2-9e01f370f16a" width="278" height="393"/>
 <img src="https://github.com/user-attachments/assets/c772c934-097a-4f71-8e94-4c3756dffd04" width="278" height="393"/>
